@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="API FrameWork">
+      <UniqueIdentifier>{648e73ef-b751-4176-8c04-8e4aa929a653}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Utility">
+      <UniqueIdentifier>{36e3df25-bcfd-459e-a732-081d78e6412a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern">
+      <UniqueIdentifier>{381e05d8-87d0-41c8-81ee-28447283def6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern\Singleton">
+      <UniqueIdentifier>{423160c8-489e-4820-893b-ba1d69f51830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Stdafx">
+      <UniqueIdentifier>{55ba6f76-7637-4fd2-a5a6-8d16021b289a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Manager">
+      <UniqueIdentifier>{0433e1bd-b5f4-4640-af13-26fcbf3ba946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\GameNode">
+      <UniqueIdentifier>{f923b80d-54bf-402e-bb52-f9ec1af2176c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{d70f409f-ef2d-4409-8a10-9c0a9b111799}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>API FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameNode.cpp">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>API FrameWork\DesignPattern\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomFunction.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMacroFunction.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNode.h">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

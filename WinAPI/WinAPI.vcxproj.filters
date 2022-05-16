@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameNode.cpp">
+      <Filter>API\GameNode</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>API\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>API\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>API\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>API\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>API\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBar.cpp">
+      <Filter>API\ProgressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>API\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>API\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextDataManager.cpp">
+      <Filter>API\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>API\Stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>API\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageClass.cpp">
+      <Filter>API\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>SPELUNKY CLASSIC\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="MapAlorithm.cpp">
+      <Filter>SPELUNKY CLASSIC\Alorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>SPELUNKY CLASSIC\DesignPattern</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>SPELUNKY CLASSIC\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>SPELUNKY CLASSIC\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Tiles.cpp">
+      <Filter>SPELUNKY CLASSIC\Alorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>SPELUNKY CLASSIC\DesignPattern</Filter>
+    </ClCompile>
+    <ClCompile Include="SnakeMonster.cpp">
+      <Filter>SPELUNKY CLASSIC\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="BatMonster.cpp">
+      <Filter>SPELUNKY CLASSIC\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Thorn.cpp">
+      <Filter>SPELUNKY CLASSIC\TRAP</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>SPELUNKY CLASSIC\TRAP</Filter>
+    </ClCompile>
+    <ClCompile Include="UiScene.cpp">
+      <Filter>SPELUNKY CLASSIC\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>SPELUNKY CLASSIC\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>SPELUNKY CLASSIC\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameNode.h">
+      <Filter>API\GameNode</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMacroFunction.h">
+      <Filter>API\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomFunction.h">
+      <Filter>API\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>API\DesignPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>API\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>API\Stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>API\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>API\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>API\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>API\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>API\ProgressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>API\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>API\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextDataManager.h">
+      <Filter>API\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>API\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageClass.h">
+      <Filter>API\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>SPELUNKY CLASSIC\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MapAlorithm.h">
+      <Filter>SPELUNKY CLASSIC\Alorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>SPELUNKY CLASSIC\DesignPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>SPELUNKY CLASSIC\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ObserverManager.h">
+      <Filter>SPELUNKY CLASSIC\DesignPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>SPELUNKY CLASSIC\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Tiles.h">
+      <Filter>SPELUNKY CLASSIC\Alorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>SPELUNKY CLASSIC\DesignPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="SnakeMonster.h">
+      <Filter>SPELUNKY CLASSIC\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="BatMonster.h">
+      <Filter>SPELUNKY CLASSIC\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Thorn.h">
+      <Filter>SPELUNKY CLASSIC\TRAP</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>SPELUNKY CLASSIC\TRAP</Filter>
+    </ClInclude>
+    <ClInclude Include="UiScene.h">
+      <Filter>SPELUNKY CLASSIC\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>SPELUNKY CLASSIC\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>SPELUNKY CLASSIC\Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API">
+      <UniqueIdentifier>{c4cbdbdf-a3f5-443c-a292-314b607bc0e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\GameNode">
+      <UniqueIdentifier>{67442a1c-806f-41ef-813c-0de14b734860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Utility">
+      <UniqueIdentifier>{41cc903a-8127-4ab3-aefa-95f747b36e7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\DesignPattern">
+      <UniqueIdentifier>{ddfcb838-f3d6-435b-bb55-d794a3fddc43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Manager">
+      <UniqueIdentifier>{fd7088a5-c60e-496b-8bb8-16893861a2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Stdafx">
+      <UniqueIdentifier>{86133b6d-3090-4dfd-9207-7bd41a85c82f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Image">
+      <UniqueIdentifier>{8d922d20-6355-46b1-8bdb-4e7951c55ed6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Timer">
+      <UniqueIdentifier>{b94c673f-b8d9-40cd-bbbb-5d108b009938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\ProgressBar">
+      <UniqueIdentifier>{905cfd2d-6e67-4e37-945e-a6de492133cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Pixel">
+      <UniqueIdentifier>{bb1b2208-3ac4-410e-92d3-4e03e2195b4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC">
+      <UniqueIdentifier>{3659e94e-c15f-4f2a-a005-dd8f48d76e5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Scene">
+      <UniqueIdentifier>{7f1ef317-aeef-4651-b6d8-7f9cbdd5489e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Player">
+      <UniqueIdentifier>{b1d9200b-b5cd-4448-b7ba-ee385b3eb264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Map">
+      <UniqueIdentifier>{987a4498-7332-4cb4-ab9a-c0978333571a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Alorithm">
+      <UniqueIdentifier>{3fb8838f-3d76-4604-a41e-c60b8937c6e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\DesignPattern">
+      <UniqueIdentifier>{987071c8-875d-41d3-a920-3a7f2b41ae6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Item">
+      <UniqueIdentifier>{c0869053-2de7-4439-9a6b-1e75078f19f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\Monster">
+      <UniqueIdentifier>{1ca5a881-c874-4ab7-af56-31f4298bab87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\TRAP">
+      <UniqueIdentifier>{49fd0941-17bd-4607-aea3-abb49a3ca6f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPELUNKY CLASSIC\UI">
+      <UniqueIdentifier>{cfe9c719-a9a4-4e78-a64a-c0a3c2cdd36e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
