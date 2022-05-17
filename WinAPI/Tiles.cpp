@@ -15,7 +15,6 @@ void MapManager::init()
 		}
 	}
 
-	/*
 	RECT rect;
 	for (int i = 0; i < MAP->_spon.size(); i++)
 	{
@@ -49,7 +48,6 @@ void MapManager::init()
 
 		}
 	}
-	*/
 }
 
 void MapManager::relese()
